@@ -1,0 +1,35 @@
+D:\Cuarto semestre\Estructura de datos 2\proyecto estructura\bin\Debug\proyecto estructura.exe.config
+D:\Cuarto semestre\Estructura de datos 2\proyecto estructura\bin\Debug\proyecto estructura.exe
+D:\Cuarto semestre\Estructura de datos 2\proyecto estructura\bin\Debug\proyecto estructura.pdb
+D:\Cuarto semestre\Estructura de datos 2\proyecto estructura\bin\Debug\FontAwesome.Sharp.dll
+D:\Cuarto semestre\Estructura de datos 2\proyecto estructura\obj\Debug\proyecto estructura.csproj.AssemblyReference.cache
+D:\Cuarto semestre\Estructura de datos 2\proyecto estructura\obj\Debug\proyecto_estructura.frm_inicio.resources
+D:\Cuarto semestre\Estructura de datos 2\proyecto estructura\obj\Debug\proyecto_estructura.Properties.Resources.resources
+D:\Cuarto semestre\Estructura de datos 2\proyecto estructura\obj\Debug\proyecto estructura.csproj.GenerateResource.cache
+D:\Cuarto semestre\Estructura de datos 2\proyecto estructura\obj\Debug\proyecto estructura.csproj.CoreCompileInputs.cache
+D:\Cuarto semestre\Estructura de datos 2\proyecto estructura\obj\Debug\proyecto estructura.csproj.CopyComplete
+D:\Cuarto semestre\Estructura de datos 2\proyecto estructura\obj\Debug\proyecto estructura.exe
+D:\Cuarto semestre\Estructura de datos 2\proyecto estructura\obj\Debug\proyecto estructura.pdb
+D:\Cuarto semestre\Estructura de datos 2\proyecto estructura\obj\Debug\proyecto_estructura.login.resources
+D:\Cuarto semestre\Estructura de datos 2\proyecto estructura\obj\Debug\proyecto_estructura.NuevoUsuario.resources
+D:\Cuarto semestre\Estructura de datos 2\proyecto estructura\obj\Debug\proyecto_estructura.USUARIO.resources
+D:\Cuarto semestre\Estructura de datos 2\tercer parcial\proyecto estructura\bin\Debug\proyecto estructura.exe.config
+D:\Cuarto semestre\Estructura de datos 2\tercer parcial\proyecto estructura\bin\Debug\proyecto estructura.exe
+D:\Cuarto semestre\Estructura de datos 2\tercer parcial\proyecto estructura\bin\Debug\proyecto estructura.pdb
+D:\Cuarto semestre\Estructura de datos 2\tercer parcial\proyecto estructura\bin\Debug\FontAwesome.Sharp.dll
+D:\Cuarto semestre\Estructura de datos 2\tercer parcial\proyecto estructura\obj\Debug\proyecto estructura.csproj.AssemblyReference.cache
+D:\Cuarto semestre\Estructura de datos 2\tercer parcial\proyecto estructura\obj\Debug\proyecto_estructura.frm_inicio.resources
+D:\Cuarto semestre\Estructura de datos 2\tercer parcial\proyecto estructura\obj\Debug\proyecto_estructura.login.resources
+D:\Cuarto semestre\Estructura de datos 2\tercer parcial\proyecto estructura\obj\Debug\proyecto_estructura.NuevoUsuario.resources
+D:\Cuarto semestre\Estructura de datos 2\tercer parcial\proyecto estructura\obj\Debug\proyecto_estructura.Properties.Resources.resources
+D:\Cuarto semestre\Estructura de datos 2\tercer parcial\proyecto estructura\obj\Debug\proyecto_estructura.USUARIO.resources
+D:\Cuarto semestre\Estructura de datos 2\tercer parcial\proyecto estructura\obj\Debug\proyecto estructura.csproj.GenerateResource.cache
+D:\Cuarto semestre\Estructura de datos 2\tercer parcial\proyecto estructura\obj\Debug\proyecto estructura.csproj.CoreCompileInputs.cache
+D:\Cuarto semestre\Estructura de datos 2\tercer parcial\proyecto estructura\obj\Debug\proyecto estructura.csproj.CopyComplete
+D:\Cuarto semestre\Estructura de datos 2\tercer parcial\proyecto estructura\obj\Debug\proyecto estructura.exe
+D:\Cuarto semestre\Estructura de datos 2\tercer parcial\proyecto estructura\obj\Debug\proyecto estructura.pdb
+D:\Cuarto semestre\Estructura de datos 2\tercer parcial\proyecto estructura\obj\Debug\proyecto_estructura.frm_deposito.resources
+D:\Cuarto semestre\Estructura de datos 2\tercer parcial\proyecto estructura\obj\Debug\proyecto_estructura.FrmRetito.resources
+D:\Cuarto semestre\Estructura de datos 2\tercer parcial\proyecto estructura\obj\Debug\proyecto_estructura.frmTracsacion.resources
+D:\Cuarto semestre\Estructura de datos 2\tercer parcial\proyecto estructura\obj\Debug\proyecto_estructura.frmPrestamo.resources
+D:\Cuarto semestre\Estructura de datos 2\tercer parcial\proyecto estructura\obj\Debug\proyecto_estructura.frmInforme_General.resources
